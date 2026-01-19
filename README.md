@@ -8,7 +8,7 @@ This project is perfect for beginners who want to understand **DOM manipulation*
 ---
 
 ## 🔗 Live Demo
-
+https://kunal-25-dsc-14.github.io/Real-time-Character-Counter/
 ---
 
 ## 📌 Features
